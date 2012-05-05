@@ -2,7 +2,8 @@ from setuptools import setup
 
 setup(
     name='sphinxapi',
-    version='2.0.2',
+    version='2.0.4',
+    license='GPLv2',
     description='Python version of Sphinx searchd client (Python API)',
     author='Sphinx Technologies Inc',
     url='http://sphinxsearch.com',
